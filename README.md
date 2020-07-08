@@ -1,0 +1,1 @@
+Código de exemplo de implementação de log utilizando Clean Architecture e Design Patterns
